@@ -6,3 +6,4 @@
 - [ ] class diagram 그리기
 - [ ] chatbot class 작성하기
 - [ ] ChatGPT 연동하기
+- [ ] readme, copyright, license
