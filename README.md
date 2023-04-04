@@ -3,7 +3,8 @@
 
 # TODO
 - [X] UI commit / push하기
-- [ ] class diagram 그리기
-- [ ] chatbot class 작성하기
-- [ ] ChatGPT 연동하기
+- [X] class diagram 그리기
+- [X] chatbot class 작성하기
+- [X] ChatGPT 연동하기
+- [ ] Multi-turn support
 - [ ] readme, copyright, license
